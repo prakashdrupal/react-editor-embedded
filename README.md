@@ -1,3 +1,5 @@
+<img width="1432" alt="Screenshot 2021-09-07 at 5 09 46 PM" src="https://user-images.githubusercontent.com/8806463/132338638-3bb1f366-407c-46b6-bcc5-a9ffddb37b05.png">
+
 # WYSIWYG Editor with SlateJS
 
 This project builds a WYSIWYG Editor using SlateJS and adds a Commenting System to it. The code compliments below articles -
