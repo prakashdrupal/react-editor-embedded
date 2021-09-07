@@ -1,1 +1,0 @@
-# react-editor-embedded
